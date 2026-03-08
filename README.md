@@ -29,3 +29,15 @@ This project is based on the original work by Flowseal.
 
 Лицензия / License: MIT (см. оригинальный репозиторий / see original repository)
 
+## 🖥️ Поддерживаемые платформы / Supported platforms
+
+| Платформа / Platform | Статус / Status | Примечание / Note |
+|:---|:---|:---|
+| **Windows** | ✅ Полностью работает / Fully working | Проверено, стабильно / Tested, stable |
+| **Linux** | ⚠️ Экспериментально / Experimental | Сборка через GitHub Actions, нужны тесты / Built via GitHub Actions, needs testing |
+| **macOS** | ⚠️ Экспериментально / Experimental | Сборка через GitHub Actions, нужны тесты / Built via GitHub Actions, needs testing |
+
+### 💡 Для пользователей Linux/macOS / For Linux/macOS users
+Скачайте бинарник из [Releases](ссылка), но будьте готовы, что могут быть проблемы. Если заметите баги — создавайте Issue, будем фиксить!
+
+Download the binary from [Releases](link), but be aware that issues may occur. If you find any bugs — create an Issue, and we'll fix them!

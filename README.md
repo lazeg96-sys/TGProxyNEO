@@ -41,3 +41,5 @@ This project is based on the original work by Flowseal.
 Скачайте бинарник из [Releases](ссылка), но будьте готовы, что могут быть проблемы. Если заметите баги — создавайте Issue, будем фиксить!
 
 Download the binary from [Releases](link), but be aware that issues may occur. If you find any bugs — create an Issue, and we'll fix them!
+** Если есть предложения по поводу доработки вы можете связаться со мной через телеграмм ** @AnataOsinjiteru
+**If you have any suggestions for improvements, you can contact me via Telegram.** @AnataOsinjiteru
